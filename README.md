@@ -1,4 +1,4 @@
-# factorial
+# this code will help you to find the number of zeros in factorial of any number
 def factorial(number):
 	if number==0 or number==1:
 		return 1
